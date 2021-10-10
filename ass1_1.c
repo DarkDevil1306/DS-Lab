@@ -1,5 +1,4 @@
-/*Q1.Write a program in C to find the third largest from the given array of in
-tegers without sorting.
+/*Q1.Write a program in C to find the third largest from the given array of integers without sorting.
 By 2020ITB028_RUPAYAN_THAKUR*/
 
 #include<stdio.h>
