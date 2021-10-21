@@ -1,4 +1,4 @@
-# DS-Lab
+<h1>DS-Lab</h1>
 ---
 <h3> Program name = ass(Assignment no.)_(Question No.) </h3> <br>
 ---
@@ -64,7 +64,6 @@ iii) merge unifies the queues and returns their union as a newqueue.
 on the real time traffic a particular signal is made on/off for a few seconds. If
 we have the traffic data available then write a program in C to manage the
 traffic signal.
-
 Consider there is a 5 road connector and you have to provide the signal for
 each of the roads. Generate the time for each traffic between 10 to 20 sec
 randomly and provide the signal for each of the roads one by one.
